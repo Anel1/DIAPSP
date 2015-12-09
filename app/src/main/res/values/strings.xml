@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DIAPSP</string>
+    <string name="hintPatientCodeNumber">Start Typing Code No</string>
+</resources>
